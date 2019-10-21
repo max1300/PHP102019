@@ -1,0 +1,10 @@
+{
+    "name": "hoc/produits_natifs",
+    "description": "Rappel PHP natif avant symfony",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "App\\": "src/"
+        }
+    }
+}
